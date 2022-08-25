@@ -1,0 +1,12 @@
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\bin\Debug\Smith_Lab7.exe.config
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\bin\Debug\Smith_Lab7.exe
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\bin\Debug\Smith_Lab7.pdb
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\obj\Debug\Smith_Lab7.Form1.resources
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\obj\Debug\Smith_Lab7.Properties.Resources.resources
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\obj\Debug\Smith_Lab7.csproj.GenerateResource.cache
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\obj\Debug\Smith_Lab7.csproj.CoreCompileInputs.cache
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\obj\Debug\Smith_Lab7.exe
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\obj\Debug\Smith_Lab7.pdb
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\bin\Debug\TechSupport.mdf
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\bin\Debug\TechSupport_log.ldf
+C:\Users\johne\OneDrive\C#\Smith_Lab7\Smith_Lab7\obj\Debug\Smith_Lab7.csproj.AssemblyReference.cache
